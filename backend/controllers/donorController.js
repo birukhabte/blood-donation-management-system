@@ -573,3 +573,4 @@ const addToBloodStock = async (labId, bloodType, quantity) => {
   }
 };// Updated on 2024-07-22 at 14:24
 // Updated on 2024-07-6 at 17:45
+// Updated on 2024-07-16 at 20:30
