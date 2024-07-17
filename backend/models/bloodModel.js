@@ -47,3 +47,4 @@ bloodSchema.index({ bloodLab: 1, bloodGroup: 1 });
 bloodSchema.index({ hospital: 1, bloodGroup: 1 });
 
 export default mongoose.model("Blood", bloodSchema);// Updated on 2024-07-26 at 13:53
+// Updated on 2024-07-17 at 20:41
