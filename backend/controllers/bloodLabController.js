@@ -688,4 +688,4 @@ export const getAllLabs = async (req, res) => {
       message: "Error fetching blood labs"
     });
   }
-};
+};// Updated on 2024-07-21 at 11:48
