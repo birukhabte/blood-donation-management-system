@@ -571,4 +571,4 @@ const addToBloodStock = async (labId, bloodType, quantity) => {
   } catch (error) {
     console.error("Error adding to blood stock:", error);
   }
-};
+};// Updated on 2024-07-22 at 14:24
