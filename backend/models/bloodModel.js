@@ -46,4 +46,4 @@ bloodSchema.pre('save', function(next) {
 bloodSchema.index({ bloodLab: 1, bloodGroup: 1 });
 bloodSchema.index({ hospital: 1, bloodGroup: 1 });
 
-export default mongoose.model("Blood", bloodSchema);
+export default mongoose.model("Blood", bloodSchema);// Updated on 2024-07-26 at 13:53
