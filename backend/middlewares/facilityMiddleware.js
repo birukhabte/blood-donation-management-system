@@ -23,3 +23,4 @@ export const protectFacility = async (req, res, next) => {
     res.status(401).json({ message: "Not authorized, token failed" });
   }
 };
+// Updated on 2024-07-31 at 17:14
