@@ -94,4 +94,4 @@ export const rejectFacility = async (req, res) => {
     console.error(err);
     res.status(500).json({ message: "Error rejecting facility" });
   }
-};
+};// Updated on 2024-07-31 at 18:21
